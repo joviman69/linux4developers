@@ -1,10 +1,10 @@
 ## Extensions
 
-Wakatime: ext install wakatime
-VSCODE-ICONS: ext install vscode-icons
-Emmet (comes by default)
-Prettier: ext install prettier-vscode
-Cobalt2 from Wes Bos
+- Wakatime: ext install wakatime
+- VSCODE-ICONS: ext install vscode-icons
+- Emmet (comes by default)
+- Prettier: ext install prettier-vscode
+- Cobalt2 from Wes Bos
 
 ## Settings
 
