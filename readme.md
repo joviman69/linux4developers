@@ -5,6 +5,7 @@ The aim of this repo is to recopilate the most important packages for ubuntu.
 ## Productivity
 
 - Rescuetime: https://www.rescuetime.com/download
+- Postman: https://app.getpostman.com
 
 ## IDEs
 
